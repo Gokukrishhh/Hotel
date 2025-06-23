@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .landing{
-    background-image: url(Project_img/Chili.jpg);
+    background-image: url(restaurant/chili.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
